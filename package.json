@@ -1,0 +1,8 @@
+{
+  "name": "auto-volumio",
+  "version": "0.0.1",
+  "description": "Create playlist based on categories and time",
+  "dependencies": {
+    "socket.io-client": "^1.5.0"
+  }
+}
